@@ -1,0 +1,12 @@
+name: ml-midterm
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyter
+  - pandas
+  - numpy
+  - seaborn
+  - scikit-learn
+  - flask
+prefix: C:\Users\p114349\Anaconda3\envs\ml-midterm
